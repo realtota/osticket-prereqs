@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Web Platform Installer
-- Microsoft Azure Account 
+- Microsoft Azure Subscription
 - Enable Internet Information Services (IIS)
 - MySQL
 - C++ Redistributable
