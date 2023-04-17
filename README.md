@@ -37,18 +37,15 @@ Allow the VM to create a new Vnet which should be done by default.
 
 We can do a quick search for `Virtual Machine` and as we create the virtual machine, we will have the option to create the Resource Group. Here we select `Create New` to name the name the Resource Group 'RG-osTicket' and build out the Virtual Machine (VM) with the provided settings pictured (below). 
 
-<p align="center"><img src="https://i.imgur.com/jz0e59n.png" height="70%" width="70%" alt="image of vm settings"/> </p>
+![lab1#1](https://user-images.githubusercontent.com/106701068/232634543-81a9c0f1-9dd5-49c0-b81d-7aadeb80cd8d.png)>
 
    >**Note**: Be sure to check the box recognizing 'I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.' or else you will receive a validation error message when you choose to 'Review + Create'.
     
-<p align="center">
-<img src="https://i.imgur.com/yFq2KcG.png" height="70%" width="70%" alt="image of vm username password"/> </p>
+![lab1#2](https://user-images.githubusercontent.com/106701068/232634763-71e55c0e-dccc-455f-a623-6e0fc7277362.png)
 
 We will need connect to our Virtual Machine with Remote Desktop using the VM's `public IP address`. 
 
-<p align="center">
-<img src="https://i.imgur.com/DGOWrS5.png" height="80%" width="80%" alt="image of public IP address"/>
-</p>
+![lab1#3](https://user-images.githubusercontent.com/106701068/232634899-55f26492-2fbb-4364-a32b-54b2e8fe1f07.png)
 
 <br />
 
