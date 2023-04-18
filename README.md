@@ -237,8 +237,6 @@ Set Permission to "`Read`" only can be acheived by choosing to right-click on '`
  </p>
  <br/>
  
- <p align="center"><i><b>💥Well, That's All Folks and Congratulations On The Completion of This Lab! 😁</i></b></p>
- <p align="center"><i><b>📝 “You don’ have to see the whole staircase. Just take the first step.”📝</p></i></b>
  
  <br />
  <br />
