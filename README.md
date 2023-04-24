@@ -39,7 +39,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    
 Start at the Azure services homepage, and click on the "Virtual machines" icon which is pointed out in the image below.
 
-![lab1#1](https://user-images.githubusercontent.com/106701068/232634543-81a9c0f1-9dd5-49c0-b81d-7aadeb80cd8d.png)>
+![lab1#1](https://user-images.githubusercontent.com/106701068/232634543-81a9c0f1-9dd5-49c0-b81d-7aadeb80cd8d.png)
 
 Once you are on that page click create and select "Azure virtual machine" 
     
