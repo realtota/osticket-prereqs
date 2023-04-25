@@ -105,7 +105,11 @@ Clicking that will show a tab that looks like the image below, select "internet 
   <img width="1023" alt="lab1#12" src="https://user-images.githubusercontent.com/106701068/233213382-5249682b-e7f3-431e-b4cf-9374b95bb82b.png">
    </p>
    
+   Go back to IIS and quickly restart the server again. Now look at the left panel and expand "Sites", "Default Web Site", and click osTicket. Then go to the right and click the Browse *.80* and it should open a webpage to osTicket.
+  
  ![lab1#13](https://user-images.githubusercontent.com/106701068/233213402-855e3819-71d2-4b6a-bf72-516159804255.png)
+ 
+    The webpage should look like the Image below.
  
 <p align="center">
    <img width="615" alt="lab1#14" src="https://user-images.githubusercontent.com/106701068/233213414-88b5ee40-5fc6-4286-b758-6e11b2a3ac8f.png">
