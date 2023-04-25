@@ -60,14 +60,20 @@ It will take some time to create but once it does click on the Virtual Machine y
 
 ![lab1#4](https://user-images.githubusercontent.com/106701068/233213220-4a147d42-fe7e-4649-a14e-ca3f4c194e4a.png)
 
+Now click the search symbol on your taskbar and type in "Remote Desktop Connection" and click the application. Once it comes up paste the Public IP adress from the previous step into the "Computer" section and click Connect.
+
 <p align="center">
    <img width="305" alt="lab1#5" src="https://user-images.githubusercontent.com/106701068/233213226-bb22408f-e155-486e-8081-68bb425968cd.png">
    </p>
+   
+ Once you have connected, select "Use a different account" and enter in the administrator account credentials from when you created the virtual machine. Once those are   in click OK and wait for the connection to the virtual machine to be complete. 
    
 <p align="center">
    <img width="342" alt="lab1#6" src="https://user-images.githubusercontent.com/106701068/233213269-8778769b-0906-42a3-a1ad-8b1980576fdb.png">
    </p>
    
+  
+  
 ![lab1#7](https://user-images.githubusercontent.com/106701068/233213276-56c8abd1-102d-40ef-8321-087a7c6b7e7a.png)
 
 <p align="center">
