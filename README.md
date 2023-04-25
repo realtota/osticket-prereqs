@@ -93,7 +93,7 @@ Clicking that will show a tab that looks like the image below, select "internet 
  Now click on the start and type in IIS for the Internet Information Services Manager app and run it as a administrator, from here you can see teh PHP manager and the URL Rewrite that we just installed. Click the PHP manager and click Register new PHP version.
    
 ![lab1#10](https://user-images.githubusercontent.com/106701068/233213360-1c5e0203-e826-455e-b620-c8798bde5620.png)
-png">
+
 
   Select the php-cgi file like the one below. It should be stored in This PC > Windows(C:) > PHP > php-cgi, select that file at click OK. Go back to the IIS homepage and click the green Restart button on the top right of the tab.
 
