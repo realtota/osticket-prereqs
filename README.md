@@ -99,6 +99,8 @@ Clicking that will show a tab that looks like the image below, select "internet 
 
 ![lab1#11](https://user-images.githubusercontent.com/106701068/233213371-736222bf-58cf-4dfb-9095-57711634685c.png)
 
+   Download OSTicket from here https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6, insdie that download there is a file called "upload" as  you see below, you want to drag that folder to the location to the right, whick is This PC > Windows(C:) > inetpub > wwwroot and wait for the file to copy. After it has successfully copied, rename that file as "osTicket"
+
 <p align="center">
   <img width="1023" alt="lab1#12" src="https://user-images.githubusercontent.com/106701068/233213382-5249682b-e7f3-431e-b4cf-9374b95bb82b.png">
    </p>
