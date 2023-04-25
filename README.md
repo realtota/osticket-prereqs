@@ -137,17 +137,28 @@ Click the "Add" button and click the "Select a principal" option as seen below. 
 
 ![lab1#19](https://user-images.githubusercontent.com/106701068/233213480-76f4820d-00d5-420a-bc0f-67dcffaf7334.png)
 
+Go the the osTicket webpage that we opened and click continue and fill out the information on that form to your liking but make sure to remember it. 
+
 <p align="center">
    <img width="616" alt="lab1#20" src="https://user-images.githubusercontent.com/106701068/233213490-27d5a04a-7f86-42b2-9cf6-1f8a3dadd0c9.png">
    </p>
    
+ Go back to the installation files https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 and download HeidiSQL. Go ahead and install it leave all the default settings the same and then run HeidiSQL. Click the Green New and you should be at a tab that looks like the one below. Enter the User and Password you created when installing mySQL and click open.
+   
 ![lab1#21](https://user-images.githubusercontent.com/106701068/233213498-99c62727-7bdd-494e-8500-46283d9f247c.png)  
 
+HeidiSQL is running and should look like below. Right-click the "Unnamed" tab, Create new, and choose Database
+
 ![lab1#22](https://user-images.githubusercontent.com/106701068/233213528-8464a219-187a-4a6b-84b4-4599b4031f17.png)
+
+Name the Database osTicket and hit OK
 
 <p align="center">
    <img width="238" alt="lab1#23" src="https://user-images.githubusercontent.com/106701068/233213553-4264613e-6283-4e84-b095-e9f33ddc7462.png">
    </p>
+   
+ Go back to the osTicket webpage and now you can fill out the Database Settings, the mySQL Username and Password were the ones you created when downloading mySQl. mySQL Database is called osTicket after the database you just created and leave the top 2 things the same.  
+   
 <p align="center">
    <img width="610" alt="lab1#24" src="https://user-images.githubusercontent.com/106701068/233213661-28f308cc-9786-4a37-b05a-22fbca232afb.png">
    </p>
