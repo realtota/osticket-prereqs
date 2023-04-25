@@ -157,13 +157,17 @@ Name the Database osTicket and hit OK
    <img width="238" alt="lab1#23" src="https://user-images.githubusercontent.com/106701068/233213553-4264613e-6283-4e84-b095-e9f33ddc7462.png">
    </p>
    
- Go back to the osTicket webpage and now you can fill out the Database Settings, the mySQL Username and Password were the ones you created when downloading mySQl. mySQL Database is called osTicket after the database you just created and leave the top 2 things the same.  
+ Go back to the osTicket webpage and now you can fill out the Database Settings, the mySQL Username and Password were the ones you created when downloading mySQl. mySQL Database is called osTicket after the database you just created and leave the top 2 things the same. You can now select the Install Now button and it should install.
    
 <p align="center">
    <img width="610" alt="lab1#24" src="https://user-images.githubusercontent.com/106701068/233213661-28f308cc-9786-4a37-b05a-22fbca232afb.png">
    </p>
    
+  We have only a few cleanup steps left. First delete the folder shown below, its in the same This PC > Windows(C:) > inetpub > wwwroot > osTicket location and it is called setup, go ahead and delete it.
+   
 ![lab1#25](https://user-images.githubusercontent.com/106701068/233213701-39dbe33f-4d03-45fd-939e-6d1362931234.png)
+
+Stay in the same folder location and go to This PC > Windows(C:) > inetpub > wwwroot > osTicket > Include and go to that ost-config file that we renamed and hit properties. Click Security, Advanced, Everyone, and edit. When looking ath the Basic permission unselect everything except Read & execute and Read and hit OK and apply.
 
 ![lab1#26](https://user-images.githubusercontent.com/106701068/233213714-aaf1fc6c-0971-4271-a6e9-8f760259802c.png)
 
