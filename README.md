@@ -82,7 +82,7 @@ Clicking that will show a tab that looks like the image below, select "internet 
    <img width="349" alt="lab1#8" src="https://user-images.githubusercontent.com/106701068/233213283-12b53b59-3527-481d-a173-6a61a18907e6.png">
    </p>
    
- From here open this link https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 and download the packets that say "PHP Manager", "Rewrite Module", "PHP 7.3.8","VC_redlist". Open File Exploerer and go this This PC > Windows(C:) and create a file called PHP. Now extract PHP 7.3.8 and put it into this folder. Now open all the other files we just downloaded and install all of them. 
+ From here open this link https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 and download the packets that say "PHP Manager", "Rewrite Module", "PHP 7.3.8","VC_redlist". Open File Exploerer and go this This PC > Windows(C:) and create a folder called PHP. Now extract PHP 7.3.8 and put it into this folder. Now open all the other files we just downloaded and install all of them. 
    
 <p align="center">
    <img width="643" alt="lab1#9" src="https://user-images.githubusercontent.com/106701068/233213353-1f5ba2a9-0550-4153-a085-2652c79c6651.png">
