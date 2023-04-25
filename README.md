@@ -72,9 +72,11 @@ Now click the search symbol on your taskbar and type in "Remote Desktop Connecti
    <img width="342" alt="lab1#6" src="https://user-images.githubusercontent.com/106701068/233213269-8778769b-0906-42a3-a1ad-8b1980576fdb.png">
    </p>
    
-  
+  As you enter the homescreen of your virtual machine go to the control pannel and select the "Uninstall a program" under the program section. Once you are there click the shield that says "Turn Windows features on or off".
   
 ![lab1#7](https://user-images.githubusercontent.com/106701068/233213276-56c8abd1-102d-40ef-8321-087a7c6b7e7a.png)
+
+Clicking that will show a tab that looks like the image below, select "internet Information Services",then "World Wide Web Services", then application Development Features, and finally select CGI 
 
 <p align="center">
    <img width="349" alt="lab1#8" src="https://user-images.githubusercontent.com/106701068/233213283-12b53b59-3527-481d-a173-6a61a18907e6.png">
