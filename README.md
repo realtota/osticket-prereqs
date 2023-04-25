@@ -129,7 +129,11 @@ Now remember that file we dragged into the inetpub, wwwroot folder, which was re
    <img width="542" alt="lab1#17" src="https://user-images.githubusercontent.com/106701068/233213459-11cace6f-42c4-4517-a54e-23518d5b03f6.png">
    </p>
    
+ Now right click that file and select properties, security, and then advanced. Here you should see a screen like below. Hit the Disable inheritance and then select "Remove all inherited permissions from this object". 
+   
 ![lab1#18](https://user-images.githubusercontent.com/106701068/233213470-af54f67a-b435-49cc-9607-149778d4cd5a.png)
+
+Click the "Add" button and click the "Select a principal" option as seen below. In the textbox that says enter an object name type in "Everyone" and click check names and then OK. Then select full control in under the basic permissions and then OK and apply. 
 
 ![lab1#19](https://user-images.githubusercontent.com/106701068/233213480-76f4820d-00d5-420a-bc0f-67dcffaf7334.png)
 
