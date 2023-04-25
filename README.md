@@ -119,7 +119,11 @@ Clicking that will show a tab that looks like the image below, select "internet 
 
 ![lab1#15](https://user-images.githubusercontent.com/106701068/233213424-7be7fb7a-3833-4d65-a663-bf0bd6106fb6.png)
 
+Now click the various extensions that were pointed in the image below and click enable which is an action located on the upper right of the tab. The extensions are "imap", "intl", and "opcache".
+
 ![lab1#16](https://user-images.githubusercontent.com/106701068/234406660-9b5b68d5-edbc-4299-8779-6795404e5e1b.png)
+
+Now remember that file we dragged into the inetpub, wwwroot folder, which was renamed as osTicket? Click on that file, click on a folder named "include" and rename the PHP file that's named ost-sampleconfig to instead ost-config.
 
 <p align="center">
    <img width="542" alt="lab1#17" src="https://user-images.githubusercontent.com/106701068/233213459-11cace6f-42c4-4517-a54e-23518d5b03f6.png">
