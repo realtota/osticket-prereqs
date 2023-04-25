@@ -109,13 +109,13 @@ Clicking that will show a tab that looks like the image below, select "internet 
   
  ![lab1#13](https://user-images.githubusercontent.com/106701068/233213402-855e3819-71d2-4b6a-bf72-516159804255.png)
  
- The Webpage should look like the image below with all the same checks and x's
+ The Webpage should look like the image below with all the same checks and X's. We are now going to enable some of these features.
  
 <p align="center">
    <img width="615" alt="lab1#14" src="https://user-images.githubusercontent.com/106701068/233213414-88b5ee40-5fc6-4286-b758-6e11b2a3ac8f.png">
    </p>
-
-![lab1#15](https://user-images.githubusercontent.com/106701068/233213424-7be7fb7a-3833-4d65-a663-bf0bd6106fb6.png)
+   
+   Re-open IIS and you should still be on the osTicket page from before, click the PHP Manager and a screen like the one below should pop up, click the Enable or disable and extension link.
 
 ![lab1#15](https://user-images.githubusercontent.com/106701068/233213424-7be7fb7a-3833-4d65-a663-bf0bd6106fb6.png)
 
