@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-   >**Note**: Make sure to have already created a Azure account as well as have a subscrition 
+   >**Note**: Make sure to have already created a Azure account as well as have a subscription 
    
 Start at the Azure services homepage, and click on the "Virtual machines" icon which is pointed out in the image below.
 
@@ -44,7 +44,7 @@ Once you are on that page click create and select "Azure virtual machine"
  >**Note**: It might be beneficial to write down all the usernames and passwords we are going to use because they are very important to remember
 
 Now that you have done that go ahead and fill out these details, make sure to click "Create new" to create a new resource group.
-Make sure to select the region that best applies to you, to select "No infrastructure redundacy required", and Security type as standard.
+Make sure to select the region that best applies to you, to select "No infrastructure redundancy required", and Security type as standard.
 For the Image make sure it is Windows 10 Pro and for size select 2-4 virtual CPUS to ensure you are not troubled with hiccups. Finally create
 an Administrator account and make sure to remember your Username and Password, this is important. Now click review and create.
 
@@ -56,7 +56,7 @@ It will take some time to create but once it does click on the Virtual Machine y
 
 ![lab1#4](https://user-images.githubusercontent.com/106701068/233213220-4a147d42-fe7e-4649-a14e-ca3f4c194e4a.png)
 
-Now click the search symbol on your taskbar and type in "Remote Desktop Connection" and click the application. Once it comes up paste the Public IP adress from the previous step into the "Computer" section and click Connect.
+Now click the search symbol on your taskbar and type in "Remote Desktop Connection" and click the application. Once it comes up paste the Public IP address from the previous step into the "Computer" section and click Connect.
 
 <p align="center">
    <img width="305" alt="lab1#5" src="https://user-images.githubusercontent.com/106701068/233213226-bb22408f-e155-486e-8081-68bb425968cd.png">
@@ -68,17 +68,17 @@ Now click the search symbol on your taskbar and type in "Remote Desktop Connecti
    <img width="342" alt="lab1#6" src="https://user-images.githubusercontent.com/106701068/233213269-8778769b-0906-42a3-a1ad-8b1980576fdb.png">
    </p>
    
-  As you enter the homescreen of your virtual machine go to the control pannel and select the "Uninstall a program" under the program section. Once you are there click the shield that says "Turn Windows features on or off".
+  As you enter the home screen  of your virtual machine go to the control panel and select the "Uninstall a program" under the program section. Once you are there click the shield that says "Turn Windows features on or off".
   
 ![lab1#7](https://user-images.githubusercontent.com/106701068/233213276-56c8abd1-102d-40ef-8321-087a7c6b7e7a.png)
 
-Clicking that will show a tab that looks like the image below, select "internet Information Services",then "World Wide Web Services", then application Development Features, and finally select CGI and hit OK.
+Clicking that will show a tab that looks like the image below, select "internet Information Services", then "World Wide Web Services", then application Development Features, and finally select CGI and hit OK.
 
 <p align="center">
    <img width="349" alt="lab1#8" src="https://user-images.githubusercontent.com/106701068/233213283-12b53b59-3527-481d-a173-6a61a18907e6.png">
    </p>
    
- From here open this link https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 and download the packets that say "PHP Manager", "Rewrite Module", "PHP 7.3.8","VC_redlist"," MySQL". Open File Exploerer and go this This PC > Windows(C:) and create a folder called PHP. Now extract PHP 7.3.8 and put it into this folder. Now open all the other files we just downloaded and install all of them. 
+ From here open this link https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 and download the packets that say "PHP Manager", "Rewrite Module", "PHP 7.3.8","VC_redlist"," MySQL". Open File Explorer and go this This PC > Windows(C:) and create a folder called PHP. Now extract PHP 7.3.8 and put it into this folder. Now open all the other files we just downloaded and install all of them. 
    
  >**Note**: For the MySQL installation, for setup type select "Typical", "Standard Configuration", and keep everything else the same. Make sure you remember the password 
    
@@ -95,7 +95,7 @@ Clicking that will show a tab that looks like the image below, select "internet 
 
 ![lab1#11](https://user-images.githubusercontent.com/106701068/233213371-736222bf-58cf-4dfb-9095-57711634685c.png)
 
-   Download OSTicket from here https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6, insdie that download there is a file called "upload" as  you see below, you want to drag that folder to the location to the right, whick is This PC > Windows(C:) > inetpub > wwwroot and wait for the file to copy. After it has successfully copied, rename that file as "osTicket"
+   Download OSTicket from here https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6, inside that download there is a file called "upload" as  you see below, you want to drag that folder to the location to the right, which is This PC > Windows(C:) > inetpub > wwwroot and wait for the file to copy. After it has successfully copied, rename that file as "osTicket"
 
 <p align="center">
   <img width="1023" alt="lab1#12" src="https://user-images.githubusercontent.com/106701068/233213382-5249682b-e7f3-431e-b4cf-9374b95bb82b.png">
