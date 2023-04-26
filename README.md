@@ -163,7 +163,7 @@ Name the Database osTicket and hit OK
    
 ![lab1#25](https://user-images.githubusercontent.com/106701068/233213701-39dbe33f-4d03-45fd-939e-6d1362931234.png)
 
-Stay in the same folder location and go to This PC > Windows(C:) > inetpub > wwwroot > osTicket > Include and go to that ost-config file that we renamed and hit properties. Click Security, Advanced, Everyone, and edit. When looking ath the Basic permission unselect everything except Read & execute and Read and hit OK and apply.
+Stay in the same folder location and go to This PC > Windows(C:) > inetpub > wwwroot > osTicket > Include and go to that ost-config file that we renamed and hit properties. Click Security, Advanced, Everyone, and edit. When looking at the Basic permission unselect everything except Read & execute and Read and hit OK and apply.
 
 ![lab1#26](https://user-images.githubusercontent.com/106701068/233213714-aaf1fc6c-0971-4271-a6e9-8f760259802c.png)
 
